@@ -1,0 +1,24 @@
+const projects=[
+    {
+        "id": 1,
+        "name" : "Dr. Strange"
+    },
+    {
+        "id": 2,
+        "name" : "Thor"
+    },
+    {
+        "id": 90,
+        "name" : "Snoop Dog"
+    },
+    {
+        "id": 12,
+        "name" : "Courier"
+    }
+]
+
+//console.log(projects)
+
+module.exports={
+    projects
+}
